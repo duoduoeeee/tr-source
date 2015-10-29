@@ -47,8 +47,9 @@ git add ----all（两个短横线。吐血推荐此命令）
 >
 > git checkout （branch-name）
 >
-> 这将切换到（branch-name）分支。10. 根据远端仓库更新本地仓库：
->
+> 这将切换到（branch-name）分支。
+
+10. 根据远端仓库更新本地仓库：
 > git pull
 
 11. 回滚更改
