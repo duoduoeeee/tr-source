@@ -31,6 +31,7 @@ git add ----all（两个短横线。吐血推荐此命令）
 
 7. 在本地提交改动。在命令行里输
 >git commit [-m add your descriptions here]
+>
 >这将把改动提交到HEAD。
 
 8. 将改动提交到github。在命令行输
@@ -39,10 +40,15 @@ git add ----all（两个短横线。吐血推荐此命令）
 
 9. 合并分支。在github客户端中切到要合并到的分支（而不是被合并的分支），然后点“比较”（compare），在弹出的列表中选择要被合并的分支，点update from xxx，合并的信息将被写入HEAD。然后点最右边的sync，就可实际提交更改到github。或者直接在命令行输：
 > git merge (branch-name)
+> 
 > 这将把分支（branch-name）合并到你的当前分支
+>
 > 要更改当前分支，执行：
+>
 > git checkout （branch-name）
+>
 > 这将切换到（branch-name）分支。10. 根据远端仓库更新本地仓库：
+>
 > git pull
 
 11. 回滚更改
