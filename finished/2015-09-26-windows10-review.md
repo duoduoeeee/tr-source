@@ -1,15 +1,13 @@
-Date:2015-09-29
-Title:完全搬运！Windows 10实力评测
-intro:Engadget网的win10评测。
-Tags:Tech Windows Translation
-Status:public
-Toc:yes
+---
+layout: post
+title: 完全搬运！Windows10 实力评测
+---
 
 Rev1.02:修正了一些细微的显示问题和小错误。
 
 # Windows 10 Review:The best of Windows 7 and 8
 
-# Windows 10评测：集Win7与8之大成
+**Windows 10评测：集Win7与8之大成**
 
 ![](http://o.aolcdn.com/dims5/amp:95dcb0bd40a8d4b341eef5bc90c33fbe701dcbd2/r:24,24,min/c:24,24,0,3/q:80/http:/www.blogcdn.com/www.engadget.com/media/2015/03/devindra-hardawar-headshot.jpg) by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) | [@devindra](http://twitter.com/devindra) | July 28th 2015 At 4:30pm
 
@@ -69,7 +67,7 @@ I don't blame Microsoft for trying to sacrifice some sacred cows with Windows 8.
 
 ## Getting started
 
-## 上手体验
+**上手体验**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/7f2692464ed7b1739629f29398512381/202384986/Windows+10+review+gallery+4.jpg)
 Before we dive into the nitty-gritty of Windows 10, it's worth exploring the upgrade experience. In short, it's pretty painless! Gone are the days where we had to devote hours and enlist the help of Windows specialists just to upgrade to a new OS (or, in my case, be the one to get recruited). Microsoft has steadily made upgrading easier with Windows 7 and 8, but with Windows 10, the process is even smoother. If you're a current Windows user, you just need to click the "Get Windows 10" app in the system tray and click "Reserve Your Free Upgrade" to [join the queue](http://www.microsoft.com/en-us/windows/windows-10-upgrade). If you don't see that app, make sure you have all of the current Windows Updates. Microsoft is making Windows 10 available to its [Insider testers first](http://www.engadget.com/2015/07/02/windows-10-staged-rollout/) starting on July 29, so you might have to wait a bit before you can upgrade.
@@ -114,7 +112,7 @@ Design wise, Microsoft stuck with the sharp corners and tile-like look it's been
 
 ## Start menu, we missed you
 
-## 开始菜单，我们想死你了
+**开始菜单，我们想死你了**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/76db5602953589242ea7e53561fbc511/202384983/Windows+10+review+gallery+1.jpg)
 
@@ -132,7 +130,7 @@ And what if you're the rare Windows 8 user who actually liked that Start screen?
 
 ## Continuum makes Windows more than meets the eye
 
-## 有了Continuum功能，Windows不仅仅是养眼
+**有了Continuum功能，Windows不仅仅是养眼**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/e2f9ecab1c7a770bc0ca51f6d49e8640/202384987/Windows+10+review+gallery+5.jpg)
 
@@ -148,9 +146,9 @@ While testing Windows 10 on a Surface Pro 3 over the past few months -- first wi
 
 在过去的几个月里，我们在Surface Pro 3上测试Windows10的时候——先是预览版，再是最后的完整版——我渐渐地开始欣赏Continuum——当我从典型的工作任务切换到偏向娱乐性的任务（比如用Comixology阅读电子漫画）。这种处理平板和传统电脑区别的方式，的确比Windows8来得要好。
 
-## Cortana brings virtual assistants to the desktop
+##Cortana brings virtual assistants to the desktop
 
-## 小娜，虚拟助手放桌面
+**小娜，虚拟助手放桌面**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/4e3d92f24567b8c0f08a4589e586818b/202384985/Windows+10+review+gallery+2.jpg)
 
@@ -174,7 +172,7 @@ Cortana处理语音指令几乎与Siri和Google Now一样好。它识别语音�
 
 ## Edge: Sayonara, Internet Explorer
 
-## Edge浏览器：向IE说再见
+**Edge浏览器：向IE说再见**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/a61429ebacc51783cc64f5b3d96d5382/202385166/Windows+10+screenshots++3.jpg)
 
@@ -200,7 +198,7 @@ You can manage your Favorites, Reading List entries (articles you save to read l
 
 ## A much better Xbox app
 
-## 改进了Xbox应用
+**改进了Xbox应用**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/b3fb41dac962176cabace93597632f51/202385165/Windows+10+screenshots++4.jpg)
 
@@ -218,7 +216,7 @@ Windows10的Xbox应用还可以是你电脑上的所有游戏的中枢，它甚�
 
 ## Other apps
 
-## 其它应用
+**其它应用**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x745+0+0/resize/630x391!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/1474021d16b31e150d19fa90691cbc06/202385167/Windows+10+screenshots++5.jpg)
 
@@ -242,7 +240,7 @@ The upgraded Windows Store app also makes it much easier to locate and install n
 
 ## Pricing and system requirements
 
-## 价位和系统要求
+**价位和系统要求**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/c0eb5c0f408de98b126a9829b98f2128/202385164/Windows+10+screenshots++1.jpg)
 
@@ -260,7 +258,7 @@ As far as basic requirements go, Windows 10 is pretty much the same as Windows 8
 
 ## Wrap-up
 
-## 总结
+**总结**
 
 ![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/edcd5ab0a9a6d03d92c3c632409fbba1/202384988/Windows+10+review+gallery+6.jpg)
 

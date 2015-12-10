@@ -1,9 +1,7 @@
-Date:2015-05-21
-Title:完全搬运！去哪里优雅地喝一波咖啡
-intro:全球知名的咖啡城市
-Tags:Travel Translation Misc
-Status:public
-Toc:yes
+---
+layout: post
+title: 完全搬运！去哪里优雅地喝一波咖啡
+---
 
 中英翻译由本人所作。原文链接：
 [http://www.bbc.com/travel/story/20140421-living-in-the-worlds-top-coffee-cities](http://www.bbc.com/travel/story/20140421-living-in-the-worlds-top-coffee-cities)
@@ -12,7 +10,7 @@ Toc:yes
 
 # Living in: The world's top coffee cities
 
-# 生活：全球顶级的咖啡城市
+**生活：全球顶级的咖啡城市**
 
 These six cities are known for their top-notch brews and caffeine-focused cultures – perfect for those on an extended stay.
 
@@ -21,13 +19,13 @@ These six cities are known for their top-notch brews and caffeine-focused cultur
 **By Lindsey Galloway**
 23 April 2014
 
-In many of the world's top coffee cities, the cafe is more than just a place to get a warm drink – it is also a hub of culture and conversation for locals and visitors alike. And while each city defines its coffee culture in a different way – whether it be by their classic drink style or by the sheer concentration of independently owned coffee houses – these six cities, taken from “best of” lists in publications including Travel and Leisure and the USA Today, have one thing in common: the cities are filled with people who live for the craft of coffee. 
+In many of the world's top coffee cities, the cafe is more than just a place to get a warm drink – it is also a hub of culture and conversation for locals and visitors alike. And while each city defines its coffee culture in a different way – whether it be by their classic drink style or by the sheer concentration of independently owned coffee houses – these six cities, taken from “best of” lists in publications including Travel and Leisure and the USA Today, have one thing in common: the cities are filled with people who live for the craft of coffee.
 
 在很多世界顶级咖啡城市中，咖啡馆已不仅仅是一个能喝热饮料的场所——它还算是一个当地人和游客之流互通文化，互致问候的中心了。这些城市以各自不同的方式定义着它们的咖啡文化，标准从它们的传统咖啡类型，到它们独有咖啡屋的浓缩纯度——这七座从像《旅游与休闲》和《今日美国》这样的杂志里的“最佳”排位中选拣出的城市有一处相通——这些城市当中都满是为咖啡艺术而生的人。
 
 ## Taipei, Taiwan
 
-## 台湾岛，台北
+**台湾岛，台北**
 
 Taipei residents are known for being extraordinarily friendly and extremely polite. Since the island was once a Japanese colony, it is not uncommon for shop employees to smile and bow in unison when someone walks through the doors. And nowhere is this friendliness more apparent than in the city's surprisingly unique cafes. Topo Cafe, in northern Taipei's Western-style Tianmu neighbourhood, is so offbeat it has a miniature, gold-fish filled river  running through the middle of it.
 
@@ -49,9 +47,9 @@ _Related infographic: The cost of living in the world's top coffee cities_
 
 _相关图文：世界各大咖啡城市的生活成本_
 
-## Melbourne, Australia
+##Melbourne, Australia
 
-## 澳大利亚，墨尔本
+**澳大利亚，墨尔本**
 
 Australia's second largest city has the reputation for being friendlier than Sydney or Perth, and offers plenty of activities without having the frenetic energy of many other big cities. “We don't chortle 'good morning' at each other, but we're not afraid to make eye contact either,” explained Lou Pardi, a writer for the Melbourne Review newspaper.
 
@@ -77,9 +75,9 @@ _相关文章：生活：墨尔本
 
 ## Havana, Cuba
 
-## 古巴，哈瓦那
+**古巴，哈瓦那**
 
-Cuba's capital city is in the middle of a seismic economic shift, with the expansion of private enterprises and a boom in international tourism. Locals are proud of their national identity and happy to share their culture with travellers and expats alike. 
+Cuba's capital city is in the middle of a seismic economic shift, with the expansion of private enterprises and a boom in international tourism. Locals are proud of their national identity and happy to share their culture with travellers and expats alike.
 
 古巴的首都​正处于一场经济地震的抬升之中，这伴随着私有企业的扩张和国际旅游业的繁荣。古巴当地人民对于他们的国家身份十分自豪，并很高兴能将他们的文化与游客和外国人民分享。
 
@@ -105,7 +103,7 @@ _比较世界顶级咖啡城市的生活必需品消费_
 
 ## Vienna, Austria
 
-## 奥地利，维也纳
+**奥地利，维也纳**
 
 As a one of Europe's smaller capital cities, Vienna offers the best of both worlds: the cultural amenities of a big metropolis with the affordable, well-kept housing of a smaller city. This environment also leads to a low-key, often independent vibe. While locals usually like to keep to themselves, they are friendly to visitors and often appreciate an outsider's view on culture and current events.
 
@@ -136,7 +134,7 @@ _比较世界各顶级咖啡城市的生活必需品消费_
 
 ## Seattle, United States
 
-## 美国，西雅图
+**美国，西雅图**
 
 No list of coffee cities would be complete without including the city that launched the world's largest coffee chain. But even though Seattle is known globally for Starbucks, many locals prefer the independent spots that feature local art on the walls and fair trade coffee in their cups.
 
@@ -163,7 +161,7 @@ _比较世界各顶级咖啡城市的日常必需品消费_
 
 ## Rome, Italy
 
-## 意大利，罗马
+**意大利，罗马**
 
 Words like “latte” “cappuccino” and “espresso” are all Italian, so it should come as no surprise that the country's capital overflows with cafe culture. While locals can seemed rushed and always on the go, most will slow down for their morning coffee ritual. “There is no such thing as coffee to go,” said Elizabeth Minchilli, who blogs about her experience living in Rome over the past 25 years. “Even while enjoyed standing up at the counter, drinking espresso is when you stop, enjoy what is in front of you, and chat with friends, the barista or the next person over.”
 
@@ -173,7 +171,7 @@ One of the most atmospheric areas to experience that temporary slow-down is in t
 
 要体验这种暂时的悠闲，最有氛围的地方之一便是​历史中心了。“坐在一个露天咖啡馆里面，就看着人群从你身边走过——这是在罗马生活所能得到的最佳奢侈享受之一了，”Minchilli说道。最与众不同的市民会聚集在Lucina接近议会的Piazza San Lorenzo，较为时髦而闲散的人则大量涌向山上的圣母小广场。广场四周则因四时不同的潮流时装、咖啡馆和餐厅而特别有名。
 
-Whatever the cafe of choice, Italians share an unspoken rule of what drink to order when: cappuccino in the morning and only acaffe (espresso) after eating. 
+Whatever the cafe of choice, Italians share an unspoken rule of what drink to order when: cappuccino in the morning and only acaffe (espresso) after eating.
 
 无论选择什么咖啡，意大利人都有一个关于点咖啡的不成文惯例：早晨点卡布奇诺，饭后点浓咖啡。
 

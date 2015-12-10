@@ -18,59 +18,112 @@ In September 2015, I traveled to North Korea to see, first-hand, what life was l
 在今年九月，我去了朝鲜旅游，以便亲眼见见这个封闭的王国里的生活是怎样的。这个国家的很多方面都如我所预料——有些奇怪，有些虚伪，有着大量的政治宣传，经常使人神经紧张。
 
 And yet, the journey was also filled with some truly wonderful, completely unexpected surprises. One thing’s for sure: North Korea really is unlike any other place on Earth.
+
+但尽管如此，这次旅行也的确有真正美好，完全意想不到的惊喜。有件事是肯定的：朝鲜和地球上的其它地方真心太不一样了。
+
 Since my return, I’ve had a lot of people, friends and strangers, ask me about my trip. There has been way more curiosity about North Korea than I would have imagined — so much so, that I thought I’d write down some of my experiences, and share them with you here.
+
+我回国之后，就有好多人，朋友啊，陌生人啊，问我这次旅行的事情。美国人对朝鲜的好奇程度远远超过我的想象。这些问题问得太多，于是我决定写下我的一些经历，在这里和你们分享。
+
 Pictures and stories alone can’t do justice to what it’s really like being on the ground in North Korea. As a visitor, you’re watched 24/7, you have no freedom, and you’re constantly tense and on edge. But hopefully, this post will at least give you a glimpse into what life is like in one of the most restricted, enigmatic destinations in the world.
+
+照片和故事的讲述，并不能够完全反映真正在朝鲜的经历。作为一个游客，你是被从早到晚监控着没有自由，你会一直处于紧张和焦虑的状态。但是我希望这篇博客可以让你们对这个严重受限的令人困惑不解的国家有一丢丢认识。
+
 ## Departure Day
+
+**出发之日**
+
 My journey began with mixed feelings of trepidation, excitement, and unbridled curiosity. With my visa in hand, I boarded North Korea’s national air carrier, Air Koryo — the lowest-ranked airline in the world, and the only carrier to have a one star safety rating with [SkyTrax](http://www.dailymail.co.uk/news/article-3214053/Fasten-seatbelts-bumpy-ride-s-really-like-fly-North-Korea-s-Air-Koryo-worst-airline-world.html).
+
+我的旅程伴着恐惧、激动、以及十二分强烈的好奇心开始了。手中拿着签证，我搭上了朝鲜的国营航空，叫做“高丽航空”的，这是全球评级最低的航空服务，其在[SkyTrax](http://www.dailymail.co.uk/news/article-3214053/Fasten-seatbelts-bumpy-ride-s-really-like-fly-North-Korea-s-Air-Koryo-worst-airline-world.html)上的安全性评级只有一星级。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1000/1*SvEsGNGKYS7milV782jQvw.jpeg) ![](https://d262ilb51hltx0.cloudfront.net/max/1000/1*Q5eBCrMG6QHaTLXgTOJKtw.jpeg)
 >My North Korean visa card (left); Air Koryo, Korea’s national air carrier (right)
+>
+>我的朝鲜签证（左图）；高丽航空，朝鲜国营的航空服务（右图）
 
 On board, we filled out a rather ominous customs declaration, where we were reminded not to bring in any killing devices, poison, “historical and cultural wealth,” “publishings of any kind,” or “cell phone and other communication means.” We were seriously about to go off the grid.
+
+在飞机上，我们填写了一份不祥的海关声明书，这里面提醒我们不能带任何凶器、毒药、“历史与文化财富”、“任何种类的印刷出版物”，或者“手机及其它通信工具”。我们这真心是要人间蒸发的节奏。
 
 ![](https://cdn-images-1.medium.com/max/800/1*aUOEhwqd_8ict_eE765TyA.jpeg)
 
 >DPRK Customs Declaration Form
+>
+>朝鲜海关声明表
 
 We were fed a peculiar hamburger made from mystery meat, and subjected to our very first taste of North Korean propaganda.
+
+机上给我们吃的是一种不知是拿啥肉做的奇异汉堡，同时还让我们先行体验了一把朝鲜的政治宣传。
 
 ![](https://cdn-images-1.medium.com/max/600/1*CMcPlh3-VRu5b6krqTv-DQ.jpeg) ![](https://d262ilb51hltx0.cloudfront.net/max/1000/1*MMW1JGwJMjohFslT5H_sOg.jpeg)
 
 >Mystery meat hamburger (left); In-flight propaganda (right)
+>
+>拿不知什么肉做的汉堡（左图）；飞机上的宣传材料（右图）
 
 Our in-flight magazine had articles with headlines like:
 
-<blockquote name="ee82" id="ee82" class="graf--pullquote pullquote graf-after--p">Local Elections Display the Invincible Might of DPRK Government</blockquote>
+我们机上的杂志里有些文章，标题像这样：
+
+<blockquote name="ee82" id="ee82" class="graf--pullquote pullquote graf-after--p">Local Elections Display the Invincible Might of DPRK Government
+朝鲜地方人民会议议员选举展现了民主朝鲜战无不胜的威力</blockquote>
 
 which referred to Kim Jong Un with a very official-sounding title that took up nearly a whole paragraph:
 
+这里面提到了金正恩，加上了一堆非常官方的头衔，占了几乎一整段：
+
 >Kim Jong Un, First Secretary of the WPK, First Chairman of the DPRK National Defense Commission and Supreme Commander of the Korean People’s Army
+>
+>朝鲜劳动党第一书记、朝鲜国防委员会第一主席、朝鲜人民军最高统帅金正恩
 
 Throughout the entire flight, TV monitors overhead played non-stop propaganda videos, featuring an all-female rock group called [Moranbong](https://en.wikipedia.org/wiki/Moranbong_Band). These women are the North Korean equivalent of U2. Each band member was hand-picked by Kim Jong Un.
 
+在整个飞行过程中，我们头顶上的显示器循环播放着宣传视频，视频里有个摇滚组合叫[牡丹峰乐团](https://en.wikipedia.org/wiki/Moranbong_Band)，全部由女性组成。这个乐队在朝鲜的地位等同于美国的U2。乐队的每名成员都由金正恩亲手挑选。
+
 The video was apparently filmed live in a massive auditorium, filled with expressionless men all dressed in identical military uniforms, sitting stiff and upright. They all remained frozen in their seats, motionless, until an enormous image of Kim Jong Un was projected onto a giant screen behind the rock band, at which point, all the men would commence applauding robotically in unison. They wouldn’t stop clapping until the image came down.
 
+很显然，视频是在一个大型礼堂里拍的，还是live版的。礼堂里面坐的都是穿着完全一样的军服的男人，他们面无表情地坐在那里，身子发直，一动不动，直到一个巨大无比的金正恩头像给拿投影机投到乐队背后的巨屏上的时候，所有人都会机械而整齐地鼓掌，头像不灭则掌声不息。
+
 We were prohibited from taking photos or videos on the plane, but I did manage to sneak this short video when the stewardesses weren’t looking:
+
+在飞机上拍照或拍视频是禁止的。但是，在那些空乘人员没注意的时候，我成功地拍下了这个短短的视频。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xkbvEkYvbPU" frameborder="0" allowfullscreen></iframe>
 
 >Non-stop rock band propaganda video aboard my Air Koryo flight to Pyongyang
+>
+>飞往平壤的班机上放的宣传片，根本停不下来
 
 - - -
 
 ## Arrival
 
+**抵达**
+
 Pyongyang Airport was not at all what I had expected. The airport was relatively modern-looking and clean. I was a bit nervous going through passport control, but that turned out to be pretty uneventful.
+
+平壤机场和我所想象的一点都不一样。整个机场相当的富有现代感，而且也很干净。在过护照检查的时候我有点紧张，但还好平安无事。
 
 Everyone did have to go through special luggage screening in order to enter the country, and that’s where things got a bit more interesting.
 
+确实，所有人都得经过特别的行李过滤才能进入朝鲜，在这里，事情开始变得有点意思了。
+
 I was bringing a fair bit of photography equipment with me: two cameras, a portable hard drive, lens filters, a bunch of spare batteries, and lots of extra memory cards. Upon seeing all this camera gear, security guards pulled me out of line and escorted me to a walled off, secondary security area, where they closely examined all my equipment.
+
+我带了相当多的照相设备：两个相机、一个移动硬盘、滤镜、一些备用电池以及好多额外的存储卡。一看见我带的这些照相器材，安全人员把我从队伍里揪了出来，把我夹在他们中间，带到了一个拿墙隔断的第二层安全区域，在那里他们仔细检查了我的所有设备。
 
 I also had a smartphone and tablet with me, and had to hand these over for inspection. North Korea now records the serial numbers for all smartphones brought into the country. I watched as a security guard entered my devices’ digits into a log book, before he handed them back to me.
 
+我还带了一个手机和一个平板，这些也得拿去检查。朝鲜现在会记录所有进入它国境智能机的序列号。我眼睁睁地看着一个安全员把我设备的序列号输到一个日志里，随后将设备归还了我。
+
 The government is particularly paranoid about foreigners bringing in any kind of literature that could be used to influence their people (e.g., the Bible). Finding nothing offensive in my bags, or stored on my memory cards, I was finally permitted to enter the country.
 
+朝鲜政府对外国人带入任何形式的文化作品甚为忌惮——它们会被用来影响朝鲜的人民（比如圣经之类的）。安全人员在我的包里和我的存储卡里没发现任何有侵犯性的东西，于是终于将我放行。
+
 As it turned out, a lot of what I had previously read about North Korea was true. You are assigned government-trained “minders” who are with you 24/7. They monitor your activities, manage your itinerary, and tell you what you can and cannot do. You are in their custody for the entirety of the trip. There are always at least 2 minders assigned to a group, because the minders also have to mind each other, making sure their comrades don’t succumb to the devious devilry of us American imperialists. No joke.
+
+正如结果所示，我之前读到的有关朝鲜的东西都是真的。朝鲜会给你指派经过政府训练的“监视员”，一天24小时看着你。他们会监视你的活动，管理你的行程，告诉你能做什么，不能做什么。整个旅程中，你都在他们的“监禁”之下。每个旅游团都会被指派至少两个监视员，因为监视员们也得要互相监视，以防止他们的同志不会屈从于我们这些美帝国主义诡计多端的恶鬼。我说的真话。
 
 ![](https://cdn-images-1.medium.com/max/600/1*YLplnfhJO5n3Q1Uxs-c5dQ.jpeg)
 
@@ -1553,4 +1606,4 @@ Whatever the reason, seeing this next generation of North Koreans gave me hope�
 
 Thanks for reading! For more pictures and stories from my adventure in North Korea, you can follow me on [Instagram](https://instagram.com/ericktseng) and [Facebook](https://www.facebook.com/ericktseng/media_set?set=a.10101920242710013.1073741889.217560). For more videos, subscribe to my channel on [YouTube](https://www.youtube.com/user/nycbos).
 
-谢谢你读完了;) 你可以查看我的[Instagram](https://instagram.com/ericktseng) 和 [Facebook](https://www.facebook.com/ericktseng/media_set?set=a.10101920242710013.1073741889.217560)。 若要查看更多视频，可以订阅我的 [YouTube](https://www.youtube.com/user/nycbos)频道。
+谢谢你读完了 ;) 如果想查看更多有关我在朝鲜的历险经历，你可以查看我的[Instagram](https://instagram.com/ericktseng) 和 [Facebook](https://www.facebook.com/ericktseng/media_set?set=a.10101920242710013.1073741889.217560)。若要查看更多视频，可以订阅我的 [YouTube](https://www.youtube.com/user/nycbos)频道。
