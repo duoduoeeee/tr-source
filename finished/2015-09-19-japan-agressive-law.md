@@ -1,8 +1,7 @@
-Date: 2015-09-19
-Title: 完全搬运！日本通过新版安保法案
-intro: 新版法案将允许日本在海外部署兵力，并参加进攻性的军事行动。
-Tags: Politics Hotspot Translations
-Status: public
+---
+layout: post
+title: 完全搬运！日本通过新版安保法案
+---
 
 # Japanese lawmakers OK greater overseas role for military
 

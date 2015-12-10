@@ -1,9 +1,7 @@
-Date:2015-07-12
-Title:完全搬运！CNN评中国股市
-intro:CNN报道中国股市强烈的波动情况。（稍早前翻译）
-Tags:Economics Translations
-Status:public
-Toc:yes
+---
+layout: post
+title: 完全搬运！CNN评中国股市
+---
 
 # Why China's crazy stock market is getting scary
 
@@ -15,13 +13,13 @@ Toc:yes
 _由于一些样式无法显示，我将页面做了重排，内容保持不变。此翻译于早前发布在我的新浪博客上。_
 
 > Fill in the blank: In recent weeks, China's stock markets have **<strong><strong><strong>__**</strong></strong></strong>.
-> 
+>
 > A) Wiped out as much as $2 trillion of investors' wealth.
-> 
+>
 > B) Swung by as much as 10% in a matter of hours.
-> 
+>
 > C) Scared the living daylights out of millions of shareholders.
-> 
+>
 > D) All of the above.
 
 填空题：中国股市在近几周内，**<strong><strong><strong><strong><strong>__**</strong></strong></strong></strong></strong>。
