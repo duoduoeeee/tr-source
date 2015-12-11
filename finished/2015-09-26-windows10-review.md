@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 完全搬运！Windows10 实力评测
+title: 【搬运】Windows10 实力评测
 ---
 
 Rev1.02:修正了一些细微的显示问题和小错误。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 完全搬运！朝鲜八日深度评测
+title: 【搬运】朝鲜八日深度评测
 ---
 ![](https://cdn-images-1.medium.com/max/1200/1*hytt08CJYX2FvCY25bUdGw.jpeg)
 
@@ -123,7 +123,7 @@ The government is particularly paranoid about foreigners bringing in any kind of
 
 As it turned out, a lot of what I had previously read about North Korea was true. You are assigned government-trained “minders” who are with you 24/7. They monitor your activities, manage your itinerary, and tell you what you can and cannot do. You are in their custody for the entirety of the trip. There are always at least 2 minders assigned to a group, because the minders also have to mind each other, making sure their comrades don’t succumb to the devious devilry of us American imperialists. No joke.
 
-正如结果所示，我之前读到的有关朝鲜的东西都是真的。朝鲜会给你指派经过政府训练的“监视员”，一天24小时看着你。他们会监视你的活动，管理你的行程，告诉你能做什么，不能做什么。整个旅程中，你都在他们的“监禁”之下。每个旅游团都会被指派至少两个监视员，因为监视员们也得要互相监视，以防止他们的同志不会屈从于我们这些美帝国主义诡计多端的恶鬼。我说的真话。
+正如结果所示，我之前读到的有关朝鲜的东西都是真的。朝鲜会给你指派经过政府训练的“监视员”，一天24小时看着你。他们会监视你的活动，管理你的行程，告诉你能做什么，不能做什么。整个旅程中，你都在他们的“监禁”之下。每个旅游团都会被指派至少两个监视员，因为监视员们也得要互相监视，以防他们的同志屈从于我们这些美帝国主义诡计多端的恶鬼。我说的真话。
 
 ![](https://cdn-images-1.medium.com/max/600/1*YLplnfhJO5n3Q1Uxs-c5dQ.jpeg)
 

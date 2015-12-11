@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 完全搬运！日本通过新版安保法案
+title: 【搬运】日本通过新版安保法案
 ---
 
 # Japanese lawmakers OK greater overseas role for military

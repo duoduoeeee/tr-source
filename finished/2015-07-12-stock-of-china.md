@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 完全搬运！CNN评中国股市
+title: 【搬运】CNN评中国股市
 ---
 
 # Why China's crazy stock market is getting scary
