@@ -13,17 +13,27 @@ December 3, 2015: 1:15 PM ET
 
 ##Ricoh Theta S, $350
 
+**理光 Theta S，350美元**
+
 ![](http://i2.cdn.turner.com/money/dam/assets/151113135439-coolest-gadgets-theta-ricoh-780x439.jpg)
 
 With a tap of a button, the Theta S spherical camera can take up to 25 minutes of 360-degree videos. You can even live-stream your videos, if that's your thing.
 
+只需轻轻一点，Theta S 球状摄像机便能拍摄长达25分钟的360度全景视频。如果你喜欢的话，你还能拿它做直播。
+
 ##MOCAheart, $149
+
+**MOCAheart，149美元**
 
 ![](http://i2.cdn.turner.com/money/dam/assets/151123073316-coolest-gadgets-mocaheart-780x439.jpg)
 
 After holding your finger to the MOCAheart reader for 25 seconds, the gadget claims it will deliver accurate heart rate, blood oxygen and blood flow information. The tiny 7 mm device syncs with your smartphone to help you track and monitor your heart's health over time.
 
+据说，将你的手指放在MOCAheart的传感器上25秒钟，它便会为你带来精确的心率、血液含氧量以及血液流动信息。这个仅有7毫米的小小设备会和你的手机同步数据，一直监视你心脏的健康。
+
 ##Yono, $150
+
+**Yono，150美元**
 
 ![](http://i2.cdn.turner.com/money/dam/assets/151123074505-coolest-gadgets-yono-780x439.jpg)
 
