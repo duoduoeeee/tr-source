@@ -39,17 +39,27 @@ After holding your finger to the MOCAheart reader for 25 seconds, the gadget cla
 
 By wearing the Yono in your ear like an earbud headphone, Yono Labs claims that you can accurately track your fertility cycles and monitor your hormones. The Yono tracks your basal body temperature, notifying you of when you're at your most fertile period in your cycle. Tracking your temperature can be more accurate than tracking ovulation.
 
+Yono Labs声称，只需把Yono戴在你的耳朵里，就像你平常戴耳机一样，你就可以精确地跟踪你的生育周期，还能监视你的荷尔蒙。Yono可以通过追踪你的最低体温（可查看<https://en.wikipedia.org/wiki/Basal_body_temperature>——译者注），在你经期的那些天提醒你。这比检测排卵期更为精确了。
+
 ##Roost smart battery, $35
+
+**Roost智能电池，35美元**
 
 ![](http://i2.cdn.turner.com/money/dam/assets/150624083559-roost-smart-smoke-alarm-battery-780x439.jpg)
 
 The Roost, a $35 9-Volt Wi-Fi battery for your smoke alarm, will notify your smartphone when your smoke detector is going off, it will let you silence your smoke alarm from an app, and it will send low-battery alerts to your phone -- no more 3 a.m. wakeups.
 
+Roost是一个9V的WIFI电池，它是为你的烟雾报警器设计的。如果你的烟雾报警器响了，它会通知你的手机，同时让你从一个APP将你的报警器静音，还会向你的手机发送低电量警告——你再也不用二半夜爬起来看报警器有没有电了。
+
 ##Microsoft Surface Book, $1,499
+
+**微软Surface Book**
 
 ![](http://i2.cdn.turner.com/money/dam/assets/151006154955-microsoft-surface-book-side-view-780x439.jpg)
 
 Microsoft's new [Surface Book](http://money.cnn.com/2015/10/21/technology/surface-book-review/) is a legitimately innovative laptop-tablet hybrid that could finally break the notebook PC out of its tired mold. When used as a standard laptop, Surface Book is crazy powerful. But unlike typical laptops, which put all the computing guts under the keyboard, most of the Surface Book's computing power happens behind its screen, making it a surprisingly lightweight and very powerful tablet.
+
+微软的新款[Surface Book](http://money.cnn.com/2015/10/21/technology/surface-book-review/)是款颇具创新性的笔记本平板的混合产品，它会最终打破笔记本电脑旧有的形态。如果你把它当一个标准的笔记本来用，它是真心强大的。
 
 ##Trunkster, $325
 
