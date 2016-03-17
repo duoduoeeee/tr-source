@@ -5,7 +5,7 @@ layout: post
 中英翻译由本人所作。原文链接：
 <http://money.cnn.com/2015/11/04/media/the-history-project/index.html>
 
-原作： [Tom Kludt](http://money.cnn.com/author/tom-kludt/index.html) - <a href="https://twitter.com/intent/user?screen_name=tomkludt"><i class=fa fa-twitter></i></a> - November 4, 2015: 12:09 PM ET
+原作： [Tom Kludt](http://money.cnn.com/author/tom-kludt/index.html) - <a href="https://twitter.com/intent/user?screen_name=tomkludt"><i class="fa fa-twitter"></i></a> - November 4, 2015: 12:09 PM ET
 
 ![](https://o0stweauh.qnssl.com/151103155234-our-love-story-780x439.jpg)
 
