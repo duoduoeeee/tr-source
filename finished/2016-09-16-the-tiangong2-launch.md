@@ -66,10 +66,18 @@ Since 2011, US Congress has barred NASA from contact with China's space program 
 
 "Chinese politicians certainly have wanted to work with the United States in space, to show they are an accepted part of the international family of spacefaring nations, but with their own space station forthcoming and international partners other than the US willing and lining up to work with them, that imperative decreases," said Johnson-Freese.
 
-
+“中国领导人当然想和美国在太空进行合作，以展现中国是国际上航天国家当中被接纳的一员。但是由于他们即将建造自己的空间站，而且除了美国之外，他们的各个国际伙伴都愿意排着队和他们合作，这种势头会趋缓。” Johnson-Freese说。
 
 China was late to the space race -- it didn't send its first satellite into space until 1970 -- just after the US put the first man on the moon.
+
+中国在太空竞赛中晚了一步——直到 1970 年它才发射了它的第一颗卫星——刚刚在美国将第一个宇航员送上月球之后。
+
+But over the last four decades, China has pumped enormous amounts of money and resources into research and training. Future plans include sending a robotic probe to Mars and a potential manned mission to the Moon.
+
+但是在过去的四十年间，中国将巨量的财力和物力投入（太空项目）的研究和训练中。未来中国的计划包括将机器人探测器送往火星，还有可能的载人登月任务。
 
 But over the last four decades, China has pumped enormous amounts of money and resources into research and training. Future plans include sending a robotic probe to Mars and a potential manned mission to the Moon.
 
 "If the US does not change its policies very soon and begin to work with China in space, it will lose whatever leverage it might having in shaping Chinese space plans for the future, " Johnson-Freese said.
+
+“如果再不快点改变政策，开始和中国在太空问题上合作的话，美国就会失去任何现有的可能塑造未来中国空间计划的筹码。” Johnson-Freese 说道。
