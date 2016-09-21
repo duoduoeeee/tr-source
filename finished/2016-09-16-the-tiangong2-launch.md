@@ -1,7 +1,7 @@
 ---
 title: 中国成功发射天宫二号空间实验室
 description: CNN 你怎么看？
-permalink: 
+permalink: /p/140946
 layout: post
 ---
 
