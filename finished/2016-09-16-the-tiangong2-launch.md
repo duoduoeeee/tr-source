@@ -1,8 +1,9 @@
 ---
-title: 中国成功发射天宫二号空间实验室
+title: 【搬运】中国成功发射天宫二号空间实验室
 description: CNN 你怎么看？
 permalink: /p/140946
 layout: post
+category: blog
 ---
 
 ## China set to launch Tiangong-2 space lab
