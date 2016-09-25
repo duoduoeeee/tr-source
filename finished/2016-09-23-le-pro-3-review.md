@@ -60,3 +60,17 @@ On the front we find an 8MP f/2.2 camera with 1.4μm big pixels (good for low-
 
 **乐视的隐藏 logo**
 
+![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/61eac289be764136858c92390e7d9588.jpg)
+
+LeEco seemed pretty proud to announce the new hidden logo “feature”, but all it appears to be is a LeEco stylized touch home button which lights up when pressed. That’s about it, sorry for wasting your time!
+
+看起来乐视发布他们隐藏 logo 的“特性”时甚为自豪。但是看起来它就是一个乐视样子的触控 home 键，按下的时候键会点亮。就这么回事，抱歉浪费了你的时间╭(°A°`)╮
+
+###5. LeEco’s second flagship in a year?
+
+![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/762015a396c548258a39178ad9bd7af6.jpg)
+
+Back in April 2016 LeEco launched the Le Max 2 which boasted a Snapdragon 820, albeit it had a bigger 5.7″ screen, that device is not much different from the Le Pro 3 LeEco have announced yesterday. So, why this need to release something? Is it to gain the customers’ good attentions back after the LeEco Le Max 2’s “fiasco”?
+
+在 2016 年四月，乐视发布了 Le Max 2，搭载的是骁龙 820 处理器，虽然之前的（Le Max 2）配备了更大的 5.7 英寸屏幕，但是它和昨天乐视发布的 Le Pro 3 并没有大的不同。所以这还需要发布个啥呢？是为了在乐视 Le Max 2这个“败笔”之后再把消费者的注意力重新吸引过来？
+
