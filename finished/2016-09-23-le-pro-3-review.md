@@ -1,7 +1,7 @@
 ---
 title: 【搬运】乐视 Pro3 有哪些亮点？
 description: 虽然我并没有用过乐视
-permalink: /p/
+permalink: /p/692974
 category: blog
 layout: post
 ---
@@ -74,3 +74,89 @@ Back in April 2016 LeEco launched the Le Max 2 which boasted a Snapdragon 820, a
 
 在 2016 年四月，乐视发布了 Le Max 2，搭载的是骁龙 820 处理器，虽然之前的（Le Max 2）配备了更大的 5.7 英寸屏幕，但是它和昨天乐视发布的 Le Pro 3 并没有大的不同。所以这还需要发布个啥呢？是为了在乐视 Le Max 2这个“败笔”之后再把消费者的注意力重新吸引过来？
 
+## 6. Le Pro 3’s battery and fast charging.
+
+**乐视 3 的电池和快充技术**
+
+![](http://i0.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/75183e07b43c48de8d2a1b39921da747.jpg)
+
+
+LeEco’s Le Pro 3 packs a massive 4070mAh in a thickness of just 7.5mm, that’s pretty amazing if we consider that other devices with similar battery capacity don’t get below 7.9mm (i.e. Huawei Mate 8). Le Pro 3’s battery also features 24W Qualcomm Quick Charge 3.0 and it can charge up to 50% in half an hour.
+
+乐视的乐 Pro 3 在一个 7.5 毫米厚的机身中装入了一个大容量的 4070 mAh 的电池，考虑到其它电池容量类似的设备从未薄过 7.9 毫米（比如华为 Mate 8），（乐视）可谓令人称奇。Le Pro 3 的电池还配备了 24W 高通快充 3.0 技术，在半小时之内最多可充到 50%。
+
+## 7. No 3.5mm headphone jack.
+
+![](http://i0.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/66f96db145d8453c974bc0abdad9bbf9.jpg)
+
+Just like the handsets they launched back in April, also the LeEco Le Pro 3 doesn’t sport a 3.5mm headphone jack. Instead it’ll support CDLA (Continual Digital Lossless Audio) coupled with Dolby Atmos to give you the best quality audio through the USB Type-C port at the bottom.
+
+乐视 Le Pro 3 并未搭载 3.5mm 耳机接口，这与他们之前在四月份发布的手机一样。他们将会转而使用 CDLA （持久数字无损音频技术）。这项技术系与杜比 Atmos 合作（开发），可通过设备底部的 USB Type-C 接口提供最佳音质的声音。
+
+## 8. Storage sizes and special editions.
+
+**存储容量和特别版本**
+
+![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/51139_01.jpg)
+
+This bit will be a bit confusing, the LeEco Le Pro 3 comes in two “normal” versions and two Zhang Yimou special editions.
+
+这块有点让人迷惑。乐视 Le Pro 3 提供两款“常规版”和两款“张艺谋特别版”。
+
+Normal versions:
+
+常规版：
+
+- 4GB of RAM + 32GB of internal storage (UFS 2.0);
+- 6GB of RAM + 64GB of internal storage (UFS 2.0);
+
+Special editions:
+
+特别版：
+
+- 4GB of RAM + 64GB of internal storage (UFS 2.0);
+- 6GB of RAM + 128GB of internal storage (UFS 2.0);
+
+The Zhang Yimou special editions will differ from the “normal” edition in the presence of a image of the movie ‘The Great Wall’ with Matt Damon on the back of the device (picture above). All the versions lack a Micro SD slot.
+
+“张艺谋特别版”与“常规版”的区别是，前者内置了电影《长城》的宣传海报，手机背面有 Matt Damon （电影的海报），如上图所示。所有版本都没有 Micro SD 卡。
+
+## 9. Connectivity
+
+**连接性**
+
+![](http://i1.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/2d3508c8f76746eb9c36cb3994fd28c8.jpg)
+
+LeEco Le Pro 3 supports dual-SIM dual standby 4G+ networks with a maximum download speed of 600Mbps, the dual-band dual-antenna MIMO Wi-Fi (802.11 a/b/g/n/ac) connection can instead get to up to 866Mbps. Other than that we find NFC, GPS and bluetooth 4.2.
+
+乐视 Le Pro 3 支持双卡双待双 4G，最大下载速率可达 600Mb，双频双天线 MIMO WiFi (802.11 a/b/g/n/ac)连接最大速率可达 886Mbps。除此之外，我们还发现它支持 NFC、GPS和蓝牙4.2。
+
+As for the network bands supported it’s as follows:
+
+至于网络频段，支持的（特性）如下：
+
+2G: GSM: 2/3/5/8; CDMA: BC0/BC1
+3G: WCDMA: B1/2/4/5/8 TD-SCDMA: B34/39; EVDO:BC0/BC1
+4G: FDD-LTE: B1/2/3/4/5/7/8/20
+
+## 10. Prices and availability
+
+**价格和发售地区**
+
+![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/e5481650581d47a8a281d1b6d5273460.jpg)
+
+The LeEco Le Pro 3 will cost 1,799 Yuan (\$269) in the 4GB + 32GB configuration and 1,999 Yuan (\$299) in the 6GB + 64GB variant. The special editions will be 2499 Yuan (\$375) for the 4GB RAM + 64GB ROM, and 2999 Yuan (\$450) for the second version with 6GB of RAM and 128GB of internal storage.
+
+乐视 Le Pro 3 的4GB+32GB版本售价为 1799 元（269 美元），6GB+64GB的版本则会作价 1999 元人民币（299 美元）；特别版，4GB+64GB 版售价为 2499 元（375 美元），6GB+128GB 版则售2999 元（450 美元）。
+
+The LeEco Le Pro 3 can already be pre-ordered and they will shipped to Chinese customers from September 28th.
+
+乐视 Le Pro 3 现已接受预定，9 月 28 日起向中国大陆用户发货。
+
+If those prices are to be believed, we’re talking about an amazing price to specs ratio. It’s true that we can already find Snapdragon 820 equipped devices for just over $250 in this period, but the LeEco Le Pro 3 just beats them all. It has two down-sides, though — no headphone’s jack and no expandable storage.
+
+如果售价准确无误的话，这款手机的性价比自然很高。事实是，现如今我们已经可以找到市面上刚刚过 250 美元的高通 820 设备，但是乐视 Le Pro 3 将它们华丽秒杀。但是，乐视也有两个遗憾之处——没有耳机孔，没有扩展存储。
+
+What do you guys think? Can you live without 3.5mm jack and micro SD expansion?
+
+你们怎么看？没有耳机孔和扩展存储是可以接受的吗？
