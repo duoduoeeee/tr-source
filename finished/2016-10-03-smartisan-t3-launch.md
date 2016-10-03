@@ -1,6 +1,7 @@
 ---
 description: 老罗的情怀……
 category: blog
+layout: post
 permalink: /p/263768
 title: 锤子再出新机！关于新的 T3 有哪些猜测？
 ---
