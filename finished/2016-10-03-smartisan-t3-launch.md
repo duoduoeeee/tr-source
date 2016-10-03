@@ -3,8 +3,9 @@ description: 老罗的情怀……
 category: blog
 layout: post
 permalink: /p/263768
-title: 锤子再出新机！关于新的 T3 有哪些猜测？
+title: 【搬运】锤子再出新机！关于新的 T3 有哪些猜测？
 ---
+
 原作：By Zi Jin Cheng - GizChina - October 1, 2016
 
 原文链接：<http://www.gizchina.com/2016/10/01/smartisan-t3-launch/>
