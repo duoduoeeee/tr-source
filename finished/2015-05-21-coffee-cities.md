@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】去哪里优雅地喝一波咖啡
+category: blog
+description: 世界各地，一些有趣的咖啡馆
+permalink: /p/949480
 ---
 
 中英翻译由本人所作。原文链接：

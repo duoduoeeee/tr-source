@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】阿里巴巴收购优酷
+category: blog
+description: 收购价达44亿美元，获得 100% 股权。
+permalink: /p/116776
 ---
 
 # Alibaba buys China's 'YouTube' for $3.6 billion

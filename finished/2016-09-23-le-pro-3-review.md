@@ -14,7 +14,7 @@ layout: post
 
 原文链接：<http://www.gizchina.com/2016/09/22/10-things-need-know-leeco-le-pro-3/>
 
-![](http://i1.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/ce47119af4be497da13e77e9202349e6.jpg)
+![](https://o0stweauh.qnssl.com/ce47119af4be497da13e77e9202349e6.jpg)
 
 LeEco have finally unveiled their much awaited Le Pro 3 and it seems to have caught the attention of many. Thus we now go through a list of things that you need to know about the LeEco Le Pro 3, already renamed the ‘OnePlus 3 killer’.
 
@@ -24,7 +24,7 @@ LeEco have finally unveiled their much awaited Le Pro 3 and it seems to have cau
 
 **全金属设计/机身颜色**
 
-![](http://i1.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/f6e4cb975fe14ebe80f2310ca6f99b68.jpg)
+![](https://o0stweauh.qnssl.com/f6e4cb975fe14ebe80f2310ca6f99b68.jpg)
 
 The LeEco Le Pro 3 comes in an all-metal body (98% metal) which sports a 2μm ultra high polished finish created through 58 minutes of CNC machining and 36 complex steps, giving the LeEco Le pro 3 a more refined look. The 5.5″ Full HD display is also covered in 2.5D arc glass with In-Cell touch tech.
 
@@ -36,7 +36,7 @@ The LeEco Le Pro 3 will be available in four colors: force gold, rose gold, si
 
 ### 2. The LeEco Le Pro 3 features the top-of-the-line Qualcomm Snapdragon 821
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/snapdragon-821-feature.jpg)
+![](https://o0stweauh.qnssl.com/snapdragon-821-feature.jpg)
 
 As rumors had suggested, the LeEco Le Pro 3 will be the second smartphone launched on the market to sport the latest Qualcomm Snapradon 821 (only second to the [Asus Zenfone 3 Deluxe](http://www.gizchina.com/2016/07/12/asus-zenfone-3-deluxe-officially-first-snapdragon-821-phone/)). The blazing fast Qualcomm CPU will be clocked at 2.35Ghz, while the Adreno 530 GPU will be running at 653MHz.
 
@@ -46,7 +46,7 @@ As rumors had suggested, the LeEco Le Pro 3 will be the second smartphone launch
 
 **相机**
 
-![](http://i1.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/df5156ec6beb42f7a1c5417d1a8df5fa.jpg)
+![](https://o0stweauh.qnssl.com/df5156ec6beb42f7a1c5417d1a8df5fa.jpg)
 
 The cameras on the LeEco are nothing extraordinary but should still give pretty good results, the front shooter sports a Sony IMX298 image sensor with a pixel count of 16MP and an aperture of f/2.0, no OIS. The lens is made of sapphire and it’s composed of 6 elements. Among other features we find: PDAF (0.1s fast focusing), HDR, Increased Sharpness, Smart Beauty Mode and 4K video recording at 30fps. Slow-motion videos will be 720p @ 120fps.
 
@@ -60,15 +60,15 @@ On the front we find an 8MP f/2.2 camera with 1.4μm big pixels (good for low-
 
 **乐视的隐藏 logo**
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/61eac289be764136858c92390e7d9588.jpg)
+![](https://o0stweauh.qnssl.com/61eac289be764136858c92390e7d9588.jpg)
 
 LeEco seemed pretty proud to announce the new hidden logo “feature”, but all it appears to be is a LeEco stylized touch home button which lights up when pressed. That’s about it, sorry for wasting your time!
 
 看起来乐视发布他们隐藏 logo 的“特性”时甚为自豪。但是看起来它就是一个乐视样子的触控 home 键，按下的时候键会点亮。就这么回事，抱歉浪费了你的时间╭(°A°`)╮
 
-###5. LeEco’s second flagship in a year?
+### 5. LeEco’s second flagship in a year?
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/762015a396c548258a39178ad9bd7af6.jpg)
+![](https://o0stweauh.qnssl.com/762015a396c548258a39178ad9bd7af6.jpg)
 
 Back in April 2016 LeEco launched the Le Max 2 which boasted a Snapdragon 820, albeit it had a bigger 5.7″ screen, that device is not much different from the Le Pro 3 LeEco have announced yesterday. So, why this need to release something? Is it to gain the customers’ good attentions back after the LeEco Le Max 2’s “fiasco”?
 
@@ -78,7 +78,7 @@ Back in April 2016 LeEco launched the Le Max 2 which boasted a Snapdragon 820, a
 
 **乐视 3 的电池和快充技术**
 
-![](http://i0.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/75183e07b43c48de8d2a1b39921da747.jpg)
+![](https://o0stweauh.qnssl.com/75183e07b43c48de8d2a1b39921da747.jpg)
 
 
 LeEco’s Le Pro 3 packs a massive 4070mAh in a thickness of just 7.5mm, that’s pretty amazing if we consider that other devices with similar battery capacity don’t get below 7.9mm (i.e. Huawei Mate 8). Le Pro 3’s battery also features 24W Qualcomm Quick Charge 3.0 and it can charge up to 50% in half an hour.
@@ -87,7 +87,7 @@ LeEco’s Le Pro 3 packs a massive 4070mAh in a thickness of just 7.5mm, that’
 
 ## 7. No 3.5mm headphone jack.
 
-![](http://i0.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/66f96db145d8453c974bc0abdad9bbf9.jpg)
+![](https://o0stweauh.qnssl.com/66f96db145d8453c974bc0abdad9bbf9.jpg)
 
 Just like the handsets they launched back in April, also the LeEco Le Pro 3 doesn’t sport a 3.5mm headphone jack. Instead it’ll support CDLA (Continual Digital Lossless Audio) coupled with Dolby Atmos to give you the best quality audio through the USB Type-C port at the bottom.
 
@@ -97,7 +97,7 @@ Just like the handsets they launched back in April, also the LeEco Le Pro 3 does
 
 **存储容量和特别版本**
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/51139_01.jpg)
+![](https://o0stweauh.qnssl.com/51139_01.jpg)
 
 This bit will be a bit confusing, the LeEco Le Pro 3 comes in two “normal” versions and two Zhang Yimou special editions.
 
@@ -125,7 +125,7 @@ The Zhang Yimou special editions will differ from the “normal” edition in th
 
 **连接性**
 
-![](http://i1.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/2d3508c8f76746eb9c36cb3994fd28c8.jpg)
+![](https://o0stweauh.qnssl.com/2d3508c8f76746eb9c36cb3994fd28c8.jpg)
 
 LeEco Le Pro 3 supports dual-SIM dual standby 4G+ networks with a maximum download speed of 600Mbps, the dual-band dual-antenna MIMO Wi-Fi (802.11 a/b/g/n/ac) connection can instead get to up to 866Mbps. Other than that we find NFC, GPS and bluetooth 4.2.
 
@@ -143,7 +143,7 @@ As for the network bands supported it’s as follows:
 
 **价格和发售地区**
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/e5481650581d47a8a281d1b6d5273460.jpg)
+![](https://o0stweauh.qnssl.com/e5481650581d47a8a281d1b6d5273460.jpg)
 
 The LeEco Le Pro 3 will cost 1,799 Yuan (\$269) in the 4GB + 32GB configuration and 1,999 Yuan (\$299) in the 6GB + 64GB variant. The special editions will be 2499 Yuan (\$375) for the 4GB RAM + 64GB ROM, and 2999 Yuan (\$450) for the second version with 6GB of RAM and 128GB of internal storage.
 

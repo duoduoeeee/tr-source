@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】日本通过新版安保法案
+category: blog
+description: 有何问题与风险？
+permalink: /p/103946
 ---
 
 # Japanese lawmakers OK greater overseas role for military

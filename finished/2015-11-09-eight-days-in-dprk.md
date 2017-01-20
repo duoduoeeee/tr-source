@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】朝鲜八日深度评测
+description: 来自世界最封闭的文明
+category: blog
+permalink: /p/299478
 ---
 ![](https://cdn-images-1.medium.com/max/1200/1*hytt08CJYX2FvCY25bUdGw.jpeg)
 

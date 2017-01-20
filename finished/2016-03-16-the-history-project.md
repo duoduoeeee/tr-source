@@ -1,6 +1,9 @@
 ---
 title: 【搬运】写就你的历史！The History Project 创建属于自己的时间轴
 layout: post
+category: blog
+description: 一个互联网产品的诞生
+permalink: /p/484168
 ---
 中英翻译由本人所作。原文链接：
 <http://money.cnn.com/2015/11/04/media/the-history-project/index.html>

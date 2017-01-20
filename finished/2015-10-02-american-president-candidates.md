@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】美总统候选人网站隐私安全问题
+category: blog
+description: 问题最严重网站隐私追踪脚本达18个
+permalink: /p/672714
 ---
 
 Rev 1.01:修正显示样式不正确的问题

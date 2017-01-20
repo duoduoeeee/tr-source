@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】微软最大的问题是什么？
+category: blog
+description: 软件制造商的软件卖不出去？
+permalink: /p/953209
 ---
 中英翻译由本人所作。原文链接：
 <http://money.cnn.com/2015/12/18/technology/most-used-apps-2015/index.html>

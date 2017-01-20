@@ -5,7 +5,6 @@ layout: post
 permalink: /p/585218
 title: 【搬运】粮食家的笔记本 Air 的实际体验如何？
 ---
-
 ## Xiaomi Mi Book Air hands on and first impressions
 
 原作：[Andi](http://www.iamandisykes.com/) - August 10, 2016 - GizChina
@@ -24,13 +23,13 @@ The Mi Book Air I have is the 12.5-inch version with integrated graphics which c
 
 我拿到的小米笔记本 Air 是12.5英寸的版本，自带集显，在中国卖 3499 块。我之所以拿到这款仅仅是因为我们只拿到了这一台电脑，但是这款紧凑的笔记本带着出差当工作机很棒。
 
-![](https://https://o0stweauh.qnssl.com/DSC00744.png)
+![](https://o0stweauh.qnssl.com/DSC00744.png)
 
 The 12.5-inch Mi Book Air offers a larger display over the smallest Apple Macbook Air, but physically they are very similar in size. This is due to the much narrower bezels around the 12.5-inch Xiaomi panel.
 
 这款 12.5 英寸的小米 Air 屏幕比最小款的 MacBook Air 要大些，但是它们主体的尺寸十分相近，这是因为小米 12.5 英寸的面板周围的边框窄好多。
 
-![](https://https://o0stweauh.qnssl.com/DSC00749.png) 
+![](https://o0stweauh.qnssl.com/DSC00749.png) 
 
 Build is also different to the Macbook Air, rather than being CNC machined from a single piece of alloy, but rather made in two pieces. This doesn’t detract from the looks of the Mi Book Air, but it does give a less sturdy, lower quality feel.
 
@@ -40,13 +39,13 @@ The differences continue in the ports on offer with the Xioami getting a full si
 
 两台电脑提供的接口也有所不同。小米配备了全尺寸的 HDMI 接口、USB TypeC 接口、标准 USB 接口以及 3.5mm 耳机插孔各一个。没有 SD 卡槽对我来讲实在是遗憾。但是考虑到现在大多数的照相机都可以连接wifi，我很确信我们可以适应没有它的生活。
 
-![xiaomi mi book air](https://https://o0stweauh.qnssl.com/DSC00747.png)
+![xiaomi mi book air](https://o0stweauh.qnssl.com/DSC00747.png)
 
 On opening it we notice that the Xiaomi Mi Book Air has a near full size keyboard with bright backlighting. There is only an option to turn the backlight on or off, rather than adjusting the degree of brightness, but it’s a lovely feature to have.
 
 打开它之后，我们发现小米笔记本 Air 的键盘接近全键，并且有明亮的背光灯。它只提供了一个打开或关闭背光灯的选项，而不能调整它的亮度。但是有这个功能还是不错的。
 
-![xiaomi mi book air](https://https://o0stweauh.qnssl.com/DSC00741.png)
+![xiaomi mi book air](https://o0stweauh.qnssl.com/DSC00741.png)
 
 On the hardware front, the Xiaomi Mi Book Air has AKG audio and a very high quality set of speakers on the underside. Compared to my wife’s Macbook Air (which is an older model) the Xiaomi has way better audio. The 1920 x 1080 display is also much brighter and offers a crisper visual experience.
 
@@ -62,39 +61,39 @@ On the performance side of things the 12.5-inch Xiaomi Mi Book Air has 4GB RAM, 
 
 ![](https://o0stweauh.qnssl.com/DSC00757.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00754.png)
+![](https://o0stweauh.qnssl.com/DSC00754.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00753.png)
+![](https://o0stweauh.qnssl.com/DSC00753.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00748.png)
+![](https://o0stweauh.qnssl.com/DSC00748.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00743.png)
+![](https://o0stweauh.qnssl.com/DSC00743.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00738.png)
+![](https://o0stweauh.qnssl.com/DSC00738.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00734.png)
+![](https://o0stweauh.qnssl.com/DSC00734.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00737.png)
+![](https://o0stweauh.qnssl.com/DSC00737.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00733.png)
+![](https://o0stweauh.qnssl.com/DSC00733.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00732.png)
+![](https://o0stweauh.qnssl.com/DSC00732.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00731.png)
+![](https://o0stweauh.qnssl.com/DSC00731.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00729.png)
+![](https://o0stweauh.qnssl.com/DSC00729.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00728.png)
+![](https://o0stweauh.qnssl.com/DSC00728.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00727.png)
+![](https://o0stweauh.qnssl.com/DSC00727.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00726.png)
+![](https://o0stweauh.qnssl.com/DSC00726.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00724.png)
+![](https://o0stweauh.qnssl.com/DSC00724.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00725.png)
+![](https://o0stweauh.qnssl.com/DSC00725.png)
 
-![](https://https://o0stweauh.qnssl.com/DSC00723.png)
+![](https://o0stweauh.qnssl.com/DSC00723.png)
 
 As already mentioned, shop.gizchina.com is the store to get the Mi Book Air from, but remember at the time of writing only this smaller (lower spec) version is available.
 

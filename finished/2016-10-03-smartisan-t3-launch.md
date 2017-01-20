@@ -10,7 +10,7 @@ title: 【搬运】锤子再出新机！关于新的 T3 有哪些猜测？
 
 原文链接：<http://www.gizchina.com/2016/10/01/smartisan-t3-launch/>
 
-![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/Smartisan-T3-press-conference_1.jpg)
+![](https://o0stweauh.qnssl.com/Smartisan-T3-press-conference_1.jpg)
 
 ## 6GB of RAM Smartisan T3 launching October 18th
 
@@ -52,4 +52,4 @@ In the international market, we also see competition from Oneplus and ZTE in the
 - USB-C, Linear LT1057 Op Amp · **USB TypeC，Linear LT1057 Op Amp**
 - 3200mAh Battery with Quick Charge 3.0 · **电池容量 3200mAh，快充 3.0**
 
-![](http://i0.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/Smartisan-T3-press-conference_1-1.jpg)
+![](https://o0stweauh.qnssl.com/Smartisan-T3-press-conference_1-1.jpg)

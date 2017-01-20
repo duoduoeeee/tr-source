@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】乐视手机或年底前进入美国市场
+category: blog
+description: 发生了什么？会对相关产业造成哪些影响？
+permalink: /p/535382
 ---
 
 # The Netflix of China is invading the United States with smartphones

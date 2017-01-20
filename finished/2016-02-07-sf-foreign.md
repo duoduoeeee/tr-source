@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 【搬运】如何教外国人做红包？
+category: blog
+description: 顺便学习一波
+permalink: /p/446251
+
 ---
 <hr />
 中英翻译由本人所作。原文链接：

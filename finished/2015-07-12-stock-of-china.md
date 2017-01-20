@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 【搬运】CNN评中国股市
+category: blog
+description: 中国股市岌岌可危？
+permalink: /p/549378
 ---
 
 # Why China's crazy stock market is getting scary
